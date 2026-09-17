@@ -1,0 +1,1 @@
+Please download lib from https://github.com/microsoft/onnxruntime/releases/tag/v1.27.0
